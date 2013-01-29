@@ -99,7 +99,7 @@ body {
 }
   .typography a:hover { 
     color: #D80000;
-    border-bottom: 1px dashed #B80000;
+    border-bottom: 1px solid #B80000;
   }
   .typography a:focus { }
 
@@ -270,4 +270,10 @@ body {
 address {
   display: block;
   margin-bottom: 20px;
+}
+
+/* MIXED
+-------------------------------------------- */
+hr {
+	border-color: #E5E5E5;
 }
