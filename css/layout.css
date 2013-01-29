@@ -129,6 +129,7 @@ body {
 	}
 	.sidebar { /* this is the sidebar element */
 	    margin-top: 12px;
+	    margin-bottom: 30px;
 	}
 	.no-sidebar .sidebar {
 		display: none;
@@ -735,7 +736,7 @@ body h1 span.amp {
 	.content-container,
 	.sidebar {
 	    width: 100%; /* sidenav is now shown above the page content */
-	    margin-bottom: 30px;
+	    /* margin-bottom: 30px; */
 	}
 		.typography h1 { /* decrease size of page heading due to smaller screen */
 		    font-size: 30px;
