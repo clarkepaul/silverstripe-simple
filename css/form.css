@@ -98,7 +98,7 @@ form .message {
 .Actions {
     margin-bottom: 20px;
 }
-    a.btn, button, input[type="submit"], .Actions .action {
+    a.btn, .button, input[type="submit"], .Actions .action {
         background: #b80000;
         color: #fff;
         display: inline-block;
@@ -113,7 +113,7 @@ form .message {
         margin-right: 10px;
         float: left;
     }
-    a.btn:hover, button, input[type="submit"]:hover, .Actions .action:hover {
+    a.btn:hover, .button, input[type="submit"]:hover, .Actions .action:hover {
         background: #C80000;
         color: #fff;
     }

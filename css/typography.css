@@ -78,9 +78,8 @@ body {
 /* PARAGRAGHS */
 .typography  p { font-size: 13px; line-height: 20px; margin: 0 0 20px; }
   .typography .intro {
-      font-family: "CamboRegular", Georgia, "Times New Roman", Times, serif;
-      font-size: 22px;
-      line-height: 32px;
+      font-size: 18px;
+      line-height: 25px;
       margin-bottom: 20px;
   }
 .typography em { font-style: italic; }
@@ -250,6 +249,10 @@ body {
 .typography blockquote p {
   font-size: 17px;
   line-height: 25px;
+}
+.typography blockquote cite {
+	margin-top: 10px;
+  font-family: font-family: Arial, Helvetica, sans-serif;
 }
 .typography pre {
   background: #F7F7F7;
