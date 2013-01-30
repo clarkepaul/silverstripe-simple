@@ -130,6 +130,7 @@ body {
 	.sidebar { /* this is the sidebar element */
 	    margin-top: 12px;
 	    margin-bottom: 30px;
+	    width: 25%;
 	}
 	.no-sidebar .sidebar {
 		display: none;
