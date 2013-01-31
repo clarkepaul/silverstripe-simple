@@ -99,7 +99,7 @@ body {
 }
   .typography a:hover { 
     color: #D80000;
-    border-bottom: 1px solid #B80000;
+    text-decoration: underline;
   }
   .typography a:focus { }
 

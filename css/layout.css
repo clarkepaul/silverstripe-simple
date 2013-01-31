@@ -296,6 +296,9 @@ body {
 	}
 
 	/* Secondary navigation */
+	.main .secondary a:hover {
+		text-decoration: none;
+	}
 	.main .secondary h3 {
 	    font-size: 20px;
 	    color: #AAA;
